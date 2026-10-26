@@ -1,0 +1,8 @@
+models/
+outputs/
+results/
+audios/*
+!audios/.gitkeep
+__pycache__/
+.venv/
+*.part
